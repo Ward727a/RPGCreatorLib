@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RPGCreator.core.Types.ContentPipeline.TXT
+namespace RPGCreatorLib.ContentPipeline.TXT
 {
     public class TXTReader : ContentTypeReader<TXTAsset>
     {
